@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to Hyubin git %20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text="Welcome to Hyubin git" %20render&fontSize=90" />
 
 <!--
 **Hyunbin9g/Hyunbin9g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
